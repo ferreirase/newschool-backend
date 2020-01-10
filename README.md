@@ -57,7 +57,7 @@ https://join.slack.com/t/newschoolgrupo/shared_invite/enQtODQ4NjUyMjAzNTUzLTg3NT
 - Pergunte sobre as tarefas em aberto.
 - Troque uma ideia com o time técnico. Comente como planeja solucionar. Ouça os conselhos dos devs mais experientes. Esse alinhamento é super importante pra aumentar significativamente as chances do seu PULL REQUEST ser aprovado depois.
 
-3 - FAÇA PARTE DA EQUIPE NO TRELLO
+3 - FAÇA PARTE DA EQUIPE NO TRELLO.
 
 https://trello.com/invite/b/2MHuWn0C/b1a15b7112ea11b856cfa78174a6f72d/projeto-new-school-app
 
